@@ -1,0 +1,6 @@
+videoId,comment,author,publishedAt,cleaned_comment,sentiment
+lrCy9b3goZw,This video is amazing! Loved every second!,User1,2023-06-01T12:00:00Z,video amazing Loved every second,Positive
+nFz9joMjPUU,Not very helpful. Too much fluff.,User2,2023-06-02T15:20:00Z,helpful much fluff,Neutral
+M3ofIVGaqeo,"I learned a lot, thank you for this!",User3,2023-06-03T09:30:00Z,learned lot thank,Neutral
+ATL2SN4XckI,"Neutral content, nothing special.",User4,2023-06-04T18:45:00Z,Neutral content nothing special,Positive
+WwZZly6Pd9k,Terrible audio quality!,User5,2023-06-05T22:10:00Z,Terrible audio quality,Negative
